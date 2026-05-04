@@ -3,7 +3,7 @@
 ## 🚀 Current Status
 I am currently open to new opportunities! I'm looking for a junior or mid-level role where I can put my Java and Spring Boot skills to work.
 
-## How am I?
+## Who am I?
 I have a Master's in Engineering Information and Communication Systems from the University of the Aegean, my academic journey culminated in a profound understanding of software development and ethical hacking.
 
 __The skills honed in REST APIs , cybersecurity and software engineering practices.__
