@@ -63,5 +63,5 @@ I am currently exploring the Rust ecosystem to expand my understanding of system
 </details>
 
 ## 📫 How to reach me:
-Just contantc me from my [Linkedin](www.linkedin.com/in/jason-argiantzis-48112521a)
+Just contact me from my [Linkedin](www.linkedin.com/in/jason-argiantzis-48112521a)
 
