@@ -1,7 +1,7 @@
 # Hello there my name is jason :wave:
 
 ## 🚀 Current Status
-I am currently open to new opportunities! I'm looking for a junior or mid-level role where I can put my Java and Spring Boot skills to work. If you're looking for a motivated developer who loves problem-solving, let's chat!
+I am currently open to new opportunities! I'm looking for a junior or mid-level role where I can put my Java and Spring Boot skills to work.
 
 ## How am I?
 I have a Master's in Engineering Information and Communication Systems from the University of the Aegean, my academic journey culminated in a profound understanding of software development and ethical hacking.
@@ -11,7 +11,7 @@ __The skills honed in REST APIs , cybersecurity and software engineering practic
 ## What I know
 <details>
 
-<summary>Java :coffee: </summary>
+<summary>Java :coffee:</summary>
 
 ### Why java?
 Java was the first language that really "clicked" for me. It all started when I competed in IEEEXtreme, where I had a blast solving complex problems under pressure. You can check out my solutions here: [IEEExtreme-17.0](https://github.com/f15k10/IEEEXtreme-17.0-Java-)
