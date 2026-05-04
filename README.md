@@ -40,7 +40,9 @@ private static Resource getBytesFile(Path filePath) {
 }
 ```
 </details>
-📫 How to reach me:
+
+
+## 📫 How to reach me:
 Just contantc me from my [Linkedin](www.linkedin.com/in/jason-argiantzis-48112521a)
 <!--
 - 🌱 I’m currently learning ...
