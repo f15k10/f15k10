@@ -16,12 +16,12 @@ __The skills honed in REST APIs , cybersecurity and software engineering practic
 ### Why java?
 Java was the first language that really "clicked" for me. It all started when I competed in IEEEXtreme, where I had a blast solving complex problems under pressure. You can check out my solutions here: [IEEExtreme-17.0](https://github.com/f15k10/IEEEXtreme-17.0-Java-)
 
-Beyond the basics, I’ve become really interested in the Spring Boot ecosystem. The more I dig into the framework, the more cool libraries I find. Right now, I’m working on a project focused on file management (Save, Edit, Delete, Download). I’m currently deep-diving into the ```org.springframework.core.io.Resource``` library to handle file streams efficiently.
+Beyond the basics, I’ve become really interested in the Spring Boot ecosystem . The more I dig into the framework, the more cool libraries I find. Right now, I’m working on a project focused on file management (Save, Edit, Delete, Download). I’m currently deep-diving into the ```org.springframework.core.io.Resource``` library to handle file streams efficiently.
 
 Currently studying: [Resource Library](https://docs.spring.io/spring-framework/reference/core/resources.html#resources-resource)
 Also studying : [Java JDK21 NIO librarys](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/nio/channels/Channel.html)
 
-***Some Snip code of my code***
+***Some Snip code of my project***
 ```
 @Nullable
 private static Resource getBytesFile(Path filePath) {
@@ -41,14 +41,27 @@ private static Resource getBytesFile(Path filePath) {
 ```
 </details>
 
+<details>
+    <summary>Database :floppy_disk: </summary>
+    
+Design: Transforming business requirements into optimized ER Diagrams.
+
+Development: Building relational (SQL) and non-relational (NoSQL) databases from the ground up.
+
+Performance: Using indexing strategies to reduce latency and improve execution speed.
+
+Stack: MySQL, MariaDB, and MongoDB.
+
+</details>
+
+
+<details>
+    <summary>Rust :crab:</summary>
+    
+I am currently exploring the Rust ecosystem to expand my understanding of systems-level safety and performance. My primary focus is learning the mechanics of the Borrow Checker and the ownership model to understand how to achieve memory safety without a garbage collector. To put these concepts into practice, I am working toward building my first high-performance CLI tools, using these projects as a hands-on way to navigate the language's nuances and low-level engineering principles for the first time.
+    
+</details>
 
 ## 📫 How to reach me:
 Just contantc me from my [Linkedin](www.linkedin.com/in/jason-argiantzis-48112521a)
-<!--
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
