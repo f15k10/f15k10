@@ -42,8 +42,10 @@ private static Resource getBytesFile(Path filePath) {
 </details>
 
 <details>
-    <summary>C++</summary>
-  With C++ I deep dive in to implementing algorithm's to be efficient as possible in a complicated problems, I started with leetcode solving problems like (Dynamic programming ,sliding window ,binary search, queue , HashMap , HashSet problems) those were the main problems i wanted to solve on leetcode , also I enjoy using librarys on C++ such as ( ```cstdint``` , ```cmath```,```algorithm```,```array```) those specific librarys I use theme for mathematical problems. 
+<summary>C++</summary>
+    
+  With C++ I deep dive in to implementing algorithm's to be efficient as possible in a complicated problems, I started with leetcode solving problems like (Dynamic programming ,sliding window ,binary search, queue , HashMap , HashSet problems) those were the main problems i wanted to solve on leetcode , also I enjoy using librarys on C++ such as ```cstdint``` , ```cmath```,```algorithm```,```array``` those specific librarys I use theme for mathematical problems. 
+
 </details>
 
 <details>
